@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1729526345725
+current_stage: Archived
+description: null
+last_updated_timestamp: 1736112422892
+name: taxi_duration_predictor
+run_id: 6efaa8656f3c4e809ba43176eabd490a
+run_link: null
+source: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/200577488369321930/6efaa8656f3c4e809ba43176eabd490a/artifacts/taxi_duration_model
+status: READY
+status_message: null
+user_id: null
+version: 3

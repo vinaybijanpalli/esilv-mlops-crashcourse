@@ -1,0 +1,7 @@
+artifact_location: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/260277204763893846
+creation_time: 1729494820178
+experiment_id: '260277204763893846'
+last_update_time: 1729494872833
+lifecycle_stage: deleted
+name: house_price_prediction
+tags: {}

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/machine-learning-operations/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/683247729893304907/12ddc43a5f744e4bbd3f68df38ed96c9/artifacts
+end_time: 1736108569965
+entry_point_name: ''
+experiment_id: '683247729893304907'
+lifecycle_stage: active
+run_id: 12ddc43a5f744e4bbd3f68df38ed96c9
+run_name: youthful-sloth-709
+run_uuid: 12ddc43a5f744e4bbd3f68df38ed96c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736108516273
+status: 4
+tags: []
+user_id: vinay

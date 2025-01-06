@@ -1,0 +1,6 @@
+artifact_location: file:///d:/Vinay/ESILV/machine-learning-operations/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/503983593208481221
+creation_time: 1736108651989
+experiment_id: '503983593208481221'
+last_update_time: 1736108651989
+lifecycle_stage: active
+name: /mlflow/xgboost_test

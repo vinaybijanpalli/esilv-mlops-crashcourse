@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/618500271556947388/427f116b552849bc9a20e4321e316d16/artifacts
+end_time: 1736106740703
+entry_point_name: ''
+experiment_id: '618500271556947388'
+lifecycle_stage: active
+run_id: 427f116b552849bc9a20e4321e316d16
+run_name: secretive-fish-384
+run_uuid: 427f116b552849bc9a20e4321e316d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736106734406
+status: 3
+tags: []
+user_id: vinay

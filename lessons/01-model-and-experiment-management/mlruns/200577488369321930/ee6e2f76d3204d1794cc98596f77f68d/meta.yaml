@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/200577488369321930/ee6e2f76d3204d1794cc98596f77f68d/artifacts
+end_time: 1729496786584
+entry_point_name: ''
+experiment_id: '200577488369321930'
+lifecycle_stage: active
+run_id: ee6e2f76d3204d1794cc98596f77f68d
+run_name: efficient-conch-554
+run_uuid: ee6e2f76d3204d1794cc98596f77f68d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729496743919
+status: 4
+tags: []
+user_id: vinay

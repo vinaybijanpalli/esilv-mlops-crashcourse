@@ -1,0 +1,19 @@
+artifact_path: taxi_duration_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.15
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.7.1
+model_uuid: 1e479164e24b488b93b9a885ef016128
+run_id: ee6e2f76d3204d1794cc98596f77f68d
+utc_time_created: '2024-10-21 07:46:18.181725'

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/618500271556947388/658da1c5f00a464aa2d1cf12691017eb/artifacts
+end_time: 1736107418150
+entry_point_name: ''
+experiment_id: '618500271556947388'
+lifecycle_stage: active
+run_id: 658da1c5f00a464aa2d1cf12691017eb
+run_name: rare-lark-677
+run_uuid: 658da1c5f00a464aa2d1cf12691017eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736107408297
+status: 3
+tags: []
+user_id: vinay

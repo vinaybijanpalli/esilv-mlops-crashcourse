@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/200577488369321930/d597d158ca0c40d98f7a14ce9276a478/artifacts
+end_time: 1729495692181
+entry_point_name: ''
+experiment_id: '200577488369321930'
+lifecycle_stage: active
+run_id: d597d158ca0c40d98f7a14ce9276a478
+run_name: aged-skink-108
+run_uuid: d597d158ca0c40d98f7a14ce9276a478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729495692109
+status: 4
+tags: []
+user_id: vinay

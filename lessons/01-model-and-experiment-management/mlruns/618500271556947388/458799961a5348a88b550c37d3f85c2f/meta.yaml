@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/618500271556947388/458799961a5348a88b550c37d3f85c2f/artifacts
+end_time: 1729101333159
+entry_point_name: ''
+experiment_id: '618500271556947388'
+lifecycle_stage: active
+run_id: 458799961a5348a88b550c37d3f85c2f
+run_name: amazing-koi-728
+run_uuid: 458799961a5348a88b550c37d3f85c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729101326822
+status: 3
+tags: []
+user_id: vinay

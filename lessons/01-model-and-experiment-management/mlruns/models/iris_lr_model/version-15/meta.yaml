@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1736107206404
+current_stage: None
+description: null
+last_updated_timestamp: 1736107206404
+name: iris_lr_model
+run_id: b1b89d7f8fed41c1af3f5b54f846f98d
+run_link: null
+source: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/618500271556947388/b1b89d7f8fed41c1af3f5b54f846f98d/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 15

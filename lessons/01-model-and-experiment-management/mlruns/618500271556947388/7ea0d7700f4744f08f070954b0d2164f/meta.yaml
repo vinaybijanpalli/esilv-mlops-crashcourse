@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/618500271556947388/7ea0d7700f4744f08f070954b0d2164f/artifacts
+end_time: 1736108943177
+entry_point_name: ''
+experiment_id: '618500271556947388'
+lifecycle_stage: active
+run_id: 7ea0d7700f4744f08f070954b0d2164f
+run_name: placid-turtle-203
+run_uuid: 7ea0d7700f4744f08f070954b0d2164f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736108925900
+status: 3
+tags: []
+user_id: vinay

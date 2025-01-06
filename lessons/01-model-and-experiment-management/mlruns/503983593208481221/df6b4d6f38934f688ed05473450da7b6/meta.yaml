@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/machine-learning-operations/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/503983593208481221/df6b4d6f38934f688ed05473450da7b6/artifacts
+end_time: 1736108694569
+entry_point_name: ''
+experiment_id: '503983593208481221'
+lifecycle_stage: active
+run_id: df6b4d6f38934f688ed05473450da7b6
+run_name: caring-fawn-572
+run_uuid: df6b4d6f38934f688ed05473450da7b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736108652037
+status: 4
+tags: []
+user_id: vinay

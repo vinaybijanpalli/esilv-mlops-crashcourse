@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/618500271556947388/81b8615efed649c89c0683e69b8a347c/artifacts
+end_time: 1729101003266
+entry_point_name: ''
+experiment_id: '618500271556947388'
+lifecycle_stage: active
+run_id: 81b8615efed649c89c0683e69b8a347c
+run_name: worried-fox-942
+run_uuid: 81b8615efed649c89c0683e69b8a347c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729100993033
+status: 3
+tags: []
+user_id: vinay

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/618500271556947388/574986ec1725413a8fa3948def1e7159/artifacts
+end_time: 1736106374750
+entry_point_name: ''
+experiment_id: '618500271556947388'
+lifecycle_stage: active
+run_id: 574986ec1725413a8fa3948def1e7159
+run_name: angry-bass-815
+run_uuid: 574986ec1725413a8fa3948def1e7159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736106367900
+status: 3
+tags: []
+user_id: vinay

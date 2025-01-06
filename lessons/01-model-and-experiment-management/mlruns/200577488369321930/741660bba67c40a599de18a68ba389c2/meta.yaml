@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/200577488369321930/741660bba67c40a599de18a68ba389c2/artifacts
+end_time: 1729496150829
+entry_point_name: ''
+experiment_id: '200577488369321930'
+lifecycle_stage: active
+run_id: 741660bba67c40a599de18a68ba389c2
+run_name: languid-owl-786
+run_uuid: 741660bba67c40a599de18a68ba389c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729496106109
+status: 4
+tags: []
+user_id: vinay

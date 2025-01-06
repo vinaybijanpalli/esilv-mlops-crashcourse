@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/618500271556947388/b7b277d0db3f483891c4e45e06eef80a/artifacts
+end_time: 1736108276942
+entry_point_name: ''
+experiment_id: '618500271556947388'
+lifecycle_stage: active
+run_id: b7b277d0db3f483891c4e45e06eef80a
+run_name: orderly-squirrel-679
+run_uuid: b7b277d0db3f483891c4e45e06eef80a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736108266875
+status: 3
+tags: []
+user_id: vinay

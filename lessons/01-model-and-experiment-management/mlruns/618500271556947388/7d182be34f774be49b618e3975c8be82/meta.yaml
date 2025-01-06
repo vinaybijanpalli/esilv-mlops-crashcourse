@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/618500271556947388/7d182be34f774be49b618e3975c8be82/artifacts
+end_time: 1736112079995
+entry_point_name: ''
+experiment_id: '618500271556947388'
+lifecycle_stage: active
+run_id: 7d182be34f774be49b618e3975c8be82
+run_name: calm-crow-281
+run_uuid: 7d182be34f774be49b618e3975c8be82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736112072507
+status: 3
+tags: []
+user_id: vinay

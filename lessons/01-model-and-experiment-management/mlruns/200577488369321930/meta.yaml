@@ -1,0 +1,6 @@
+artifact_location: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/200577488369321930
+creation_time: 1729495692089
+experiment_id: '200577488369321930'
+last_update_time: 1729495692089
+lifecycle_stage: active
+name: taxi-duration-prediction

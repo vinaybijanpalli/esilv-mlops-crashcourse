@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/200577488369321930/e46d0f011a94428180adcbdcffe7ed85/artifacts
+end_time: 1729497112086
+entry_point_name: ''
+experiment_id: '200577488369321930'
+lifecycle_stage: active
+run_id: e46d0f011a94428180adcbdcffe7ed85
+run_name: caring-penguin-574
+run_uuid: e46d0f011a94428180adcbdcffe7ed85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729497071517
+status: 3
+tags: []
+user_id: vinay

@@ -1,0 +1,6 @@
+artifact_location: file:///d:/Vinay/ESILV/machine-learning-operations/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/683247729893304907
+creation_time: 1736108046508
+experiment_id: '683247729893304907'
+last_update_time: 1736108046508
+lifecycle_stage: active
+name: /mlflow/linear_reg_test

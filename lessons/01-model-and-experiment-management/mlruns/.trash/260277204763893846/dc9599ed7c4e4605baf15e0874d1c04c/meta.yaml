@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/260277204763893846/dc9599ed7c4e4605baf15e0874d1c04c/artifacts
+deleted_time: 1729494872833
+end_time: 1729494820262
+entry_point_name: ''
+experiment_id: '260277204763893846'
+lifecycle_stage: deleted
+run_id: dc9599ed7c4e4605baf15e0874d1c04c
+run_name: big-bass-750
+run_uuid: dc9599ed7c4e4605baf15e0874d1c04c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729494820198
+status: 4
+tags: []
+user_id: vinay

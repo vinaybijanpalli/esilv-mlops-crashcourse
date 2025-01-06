@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Vinay/ESILV/ML/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/618500271556947388/12c6f12110624d1ab46402f31c7abf01/artifacts
+end_time: 1729524342619
+entry_point_name: ''
+experiment_id: '618500271556947388'
+lifecycle_stage: active
+run_id: 12c6f12110624d1ab46402f31c7abf01
+run_name: silent-newt-894
+run_uuid: 12c6f12110624d1ab46402f31c7abf01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729524327343
+status: 3
+tags: []
+user_id: vinay
